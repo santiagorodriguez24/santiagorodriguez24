@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-	<img src="https://github.com/santiagorodriguez24/santiagorodriguez24/images/developer.gif" alt="Developer GIF.">
+	<img src="https://github.com/santiagorodriguez24/santiagorodriguez24/blob/main/images/developer.gif" alt="Developer GIF.">
 </div>
 
 - 🔭 I’m currently working on applications made with react native.
