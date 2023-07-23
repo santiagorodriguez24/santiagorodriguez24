@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="align-items:center;justify-content:center;">
+<div align="center">
 	<img src="https://github.com/santiagorodriguez24/santiagorodriguez24/images/developer.gif" alt="Developer GIF.">
 </div>
 
